@@ -41,3 +41,18 @@
 
 :round_pushpin: **should be able to check a task**
   Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado da task, ela seja marcada como concluída ou não concluída de acordo com seu estado atual, alterando seu valor de `isComplete` de `false` para `true` ou ao contrário, de `true` para `false`.
+
+<br>
+
+## :computer: Iniciando o app
+  ```
+  yarn install
+  yarn dev
+ 
+  ```
+  ou
+  ```
+  npm install
+  npm run dev
+ 
+  ```
